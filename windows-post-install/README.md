@@ -14,9 +14,10 @@ Script em PowerShell para automatizar tarefas pós-formatação do Windows.
 - Execução como Administrador
 
 ## Como usar
-1. Faça o download do repositório como `.zip`
-2. Extraia os arquivos
-3. Execute o arquivo `start.bat` como administrador
+1. Clique em `Code` → `Download ZIP`
+2. Extraia o conteúdo
+3. Acesse a pasta `windows-post-install`
+4. Execute o arquivo `start.bat` como administrador
 
 ## Status do Projeto
 🚧 Em desenvolvimento — versão inicial com atualização do Windows funcional.
